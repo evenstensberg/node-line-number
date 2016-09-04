@@ -1,4 +1,4 @@
-# :octocat: [node-line-number]() :octocat:
+# :octocat: [node-line-number](https://github.com/ev1stensberg/node-line-number) :octocat:
 [![NPM](https://nodei.co/npm/node-line-number.png)](https://npmjs.org/package/node-line-number)
 
 **Get the current line number in &lt;mode> format for each line in your directory or file**
