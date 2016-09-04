@@ -1,0 +1,30 @@
+{
+  "name": "node-line-number",
+  "version": "1.0.0",
+  "description": "Get the current line number in <mode> format in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ev1stensberg/node-line-number.git"
+  },
+  "keywords": [
+  "node",
+  "nodeJS",
+  "readline",
+  "fs",
+  "line",
+  "number"
+],
+  "author": "Even Stensberg <evenstensberg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ev1stensberg/node-line-number/issues"
+  },
+  "homepage": "https://github.com/ev1stensberg/node-line-number#readme",
+  "devDependencies": {
+    "ava": "^0.16.0"
+  }
+}
