@@ -3,6 +3,8 @@
 
 **Get the current line number in &lt;mode> format for each line in your directory or file**
 
+***
+**If you want to implement this on your own, [check this out](https://ev1stensberg.wordpress.com/2016/09/05/reading-correct-line-numbers-in-node/)**
 ##Installation
 
 `npm install --save node-line-number`
